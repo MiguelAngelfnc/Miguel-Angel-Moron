@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Miguel Ángel Morón Bernabé</h1>
 <h3 align="center">A passionate web developer from Spain</h3>
 
-- 🔭 I’m currently studying on [Develhope](https://www.develhope.co/es/sign-up/)
+- 🔭 I just got graduated on [Develhope](https://www.develhope.co/es/sign-up/)
 
 - 🌱 I’m currently learning **Front and Back development**
 
